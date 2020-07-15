@@ -1,5 +1,8 @@
-# Evidencija-pacijenata
-Projekat koji je radjen u C++ programskom jeziku zajedno sa timom
-Linija koda: 1381
-Sam program nije kompleksan i kod je jednostavan za razumijeti
-Optimizacija koda - 6/10
+# Patient-records
+The project is made in C++ with the team
+Lines of code: 1381
+
+# Description
+
+It is the simple program made for medical institution. The program is about patient records. It is very simple program to understand beacuse the code is not hard to understand even for a beginner in C++
+
